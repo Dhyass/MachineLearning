@@ -125,3 +125,9 @@ runfile('C:/Users/NONZOOU/.spyder-py3/untitled0.py', wdir='C:/Users/NONZOOU/.spy
 runfile('C:/Users/NONZOOU/.spyder-py3/pandas1Titanic.py', wdir='C:/Users/NONZOOU/.spyder-py3')
 runfile('C:/Users/NONZOOU/.spyder-py3/trateImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
 runfile('C:/Users/NONZOOU/.spyder-py3/pandas1Titanic.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Tue Oct 17 11:37:29 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/trateImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/histogrameAnalyseImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/contoutple2.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/ndomagemorphology.py', wdir='C:/Users/NONZOOU/.spyder-py3')
