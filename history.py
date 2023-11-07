@@ -132,3 +132,63 @@ runfile('C:/Users/NONZOOU/.spyder-py3/histogrameAnalyseImage.py', wdir='C:/Users
 runfile('C:/Users/NONZOOU/.spyder-py3/contoutple2.py', wdir='C:/Users/NONZOOU/.spyder-py3')
 runfile('C:/Users/NONZOOU/.spyder-py3/ndomagemorphology.py', wdir='C:/Users/NONZOOU/.spyder-py3')
 runfile('C:/Users/NONZOOU/.spyder-py3/trateImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/PandasMAUSDZAR.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/trateImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/PandasMAUSDZAR.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/plusieursEMA usdzar.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/GBPUSDvsEURGBP.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Thu Oct 19 09:26:41 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/GBPUSDvsEURGBP.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/trateImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/interpo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/resolutionEXo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled1.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled2.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/resolutionEXo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/GBPUSDvsEURGBP.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled1.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Fri Oct 20 09:18:22 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/resolutionEXo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/regressionAvecSKLearn.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/classificationTitanic.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Mon Oct 23 09:34:45 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/resolutionEXo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Wed Oct 25 18:04:01 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/prepocessing.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled1.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/Trans_EStimator.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled2.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/imshow.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/resolutionEXo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/prepocessing.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Tue Oct 31 09:01:08 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/Trans_EStimator.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/trateImage.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/imshow.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled0.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/selectFromModel.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Tue Oct 31 12:11:56 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/selectFromModel.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Tue Nov  7 15:08:58 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/selectFromModel.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/variance_best.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/selectFromModel.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled0.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+cls
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled0.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+cls
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled0.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/Apprentissage_Non_Suppervise.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/App_NS_AnomalyDetection.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/Detection_Anomalie_Exo.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled3.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+runfile('C:/Users/NONZOOU/.spyder-py3/apprentisage_Non_Supervis_reduction_DImension.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+cls
+runfile('C:/Users/NONZOOU/.spyder-py3/apprentisage_Non_Supervis_reduction_DImension.py', wdir='C:/Users/NONZOOU/.spyder-py3')
