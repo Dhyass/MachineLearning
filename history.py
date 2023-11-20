@@ -192,3 +192,56 @@ runfile('C:/Users/NONZOOU/.spyder-py3/untitled3.py', wdir='C:/Users/NONZOOU/.spy
 runfile('C:/Users/NONZOOU/.spyder-py3/apprentisage_Non_Supervis_reduction_DImension.py', wdir='C:/Users/NONZOOU/.spyder-py3')
 cls
 runfile('C:/Users/NONZOOU/.spyder-py3/apprentisage_Non_Supervis_reduction_DImension.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Fri Nov 10 14:05:57 2023)---
+runfile('C:/Users/NONZOOU/.spyder-py3/temp.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+cls
+runfile('C:/Users/NONZOOU/.spyder-py3/untitled0.py', wdir='C:/Users/NONZOOU/.spyder-py3')
+
+## ---(Wed Nov 15 12:30:44 2023)---
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+runfile('C:/Users/NONZOOU/untitled1.py', wdir='C:/Users/NONZOOU')
+runfile('C:/Users/NONZOOU/untitled2.py', wdir='C:/Users/NONZOOU')
+runfile('C:/Users/NONZOOU/untitled3.py', wdir='C:/Users/NONZOOU')
+
+## ---(Thu Nov 16 15:39:28 2023)---
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+
+## ---(Mon Nov 20 14:38:18 2023)---
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+
+## ---(Mon Nov 20 15:01:29 2023)---
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+
+## ---(Mon Nov 20 15:02:56 2023)---
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+
+## ---(Mon Nov 20 15:03:51 2023)---
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/untitled0.py', wdir='C:/Users/NONZOOU')
+runfile('C:/Users/NONZOOU/close_price_prediction.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/close_price_prediction.py', wdir='C:/Users/NONZOOU')
+cls
+runfile('C:/Users/NONZOOU/close_price_prediction.py', wdir='C:/Users/NONZOOU')
