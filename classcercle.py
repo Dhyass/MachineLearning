@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 20 17:34:14 2023
+
+@author: NONZOOU
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -16,6 +23,7 @@ class cercle_python():
 
         plt.figure(figsize=(6,6))
         plt.plot(x, y, linewidth = self.epaisseur, color = self.couleur)
+        plt.title(self.nom)
         plt.axis('equal')  # Ensure the aspect ratio is equal for a circular plot
         plt.show()
 
@@ -23,4 +31,5 @@ mon_cercle = cercle_python("MonCercle")
 rayon= float(input("Rayon du cercle : "))
 couleur= str(input("couleur du cercle : "))
 epaisseur= float(input("Epaisseur du cercle : "))
+
 mon_cercle.parametrescercle(rayon, couleur, epaisseur)
